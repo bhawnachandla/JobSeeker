@@ -41,5 +41,5 @@ To set up and run the Job Seeker Project locally, follow these steps:
 
 5. Access the project through your web browser.
 
-## I made this project in my graduatoin for the practice purpose only 
+## I made this project in my graduation for the practice purpose only 
 However i welcome contributions to enhance and improve this Project. Feel free to submit bug reports, feature requests, or even open pull requests. Please adhere to the project's coding standards and guidelines.
